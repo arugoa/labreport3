@@ -1,5 +1,3 @@
-
-
 public class ArrayExamples {
 
   // Changes the input array to be in reversed order
@@ -34,7 +32,5 @@ public class ArrayExamples {
     }
     return sum / (arr.length - 1);
   }
-
-
 }
 
